@@ -1,3 +1,3 @@
 # mytest
 
-test
+test.
