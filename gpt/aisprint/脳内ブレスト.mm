@@ -3,7 +3,7 @@
 <node TEXT="AIエージェント活用ルール整理" FOLDED="false" ID="ID_696401721" CREATED="1610381621824" MODIFIED="1751005097845" STYLE="oval">
 <font SIZE="10"/>
 <hook NAME="MapStyle" zoom="0.82644624">
-    <properties edgeColorConfiguration="#808080ff,#ff0000ff,#0000ffff,#00ff00ff,#ff00ffff,#00ffffff,#7c0000ff,#00007cff,#007c00ff,#7c007cff,#007c7cff,#7c7c00ff" auto_compact_layout="true" fit_to_viewport="false" show_icons="BESIDE_NODES" associatedTemplateLocation="template:/standard-1.6.mm" show_tags="UNDER_NODES" show_icon_for_attributes="true" show_note_icons="true" showTagCategories="false"/>
+    <properties edgeColorConfiguration="#808080ff,#ff0000ff,#0000ffff,#00ff00ff,#ff00ffff,#00ffffff,#7c0000ff,#00007cff,#007c00ff,#7c007cff,#007c7cff,#7c7c00ff" show_icon_for_attributes="true" auto_compact_layout="true" show_tags="UNDER_NODES" associatedTemplateLocation="template:/standard-1.6.mm" show_note_icons="true" fit_to_viewport="false" show_icons="BESIDE_NODES" showTagCategories="false"/>
     <tags category_separator="::"/>
 
 <map_styles>
@@ -177,6 +177,7 @@
 </node>
 </node>
 </node>
+<node TEXT="どうやって無限ループなどに陥った際に判別するか、アラートを上げさせるか" ID="ID_1643173984" CREATED="1751045959328" MODIFIED="1751045976181"/>
 </node>
 <node TEXT="ワークアラウンド" POSITION="bottom_or_right" ID="ID_1852189562" CREATED="1751006466971" MODIFIED="1751006479761" HGAP_QUANTITY="23 pt" VSHIFT_QUANTITY="22.5 pt">
 <edge COLOR="#007c00"/>
